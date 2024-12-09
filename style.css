@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+}
+.banner{
+    position: relative;
+    background-image: url(https://img.freepik.com/premium-photo/wide-angle-shot-single-tree-growing-clouded-sky-sunset-surrounded-by-grass_181624-22807.jpg?semt=ais_hybrid);
+    background-size: cover; 
+    background-position: center;
+    height: 500px;
+    color: white;
+}
